@@ -160,7 +160,7 @@ export default function SignUp() {
                         <span className="text-xs text-green-600">Passwords match</span>
                       </>
                     ) : (
-                      <span className="text-xs text-red-600">Passwords don't match</span>
+                      <span className="text-xs text-red-600">Passwords don&apos;t match</span>
                     )}
                   </div>
                 )}
